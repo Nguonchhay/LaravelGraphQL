@@ -1,3 +1,9 @@
+URLs
+----
+
+* Playground: `http://lighthouse-tutorial.local/graphql-playground`
+
+
 References
 ----------
 
